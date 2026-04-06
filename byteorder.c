@@ -20,3 +20,7 @@ void byteorder() {
         printf("unknown...\n");
     }
 }
+
+int main() {
+	byteorder();
+}
